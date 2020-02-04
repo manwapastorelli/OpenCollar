@@ -1,3 +1,5 @@
+This is a fork of the main opencollar repository aimed at bringing opencollar back to opensim. Initial stages of work will be labeling compatible scripts, then a start on fixing the incompatible ones so they are. 
+
 ### Welcome to OpenCollar
 
 OpenCollar is a set of LSL scripts and related content (such as animations,
